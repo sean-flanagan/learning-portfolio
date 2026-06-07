@@ -1,0 +1,12 @@
+{
+  "name": "learning-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "npx http-server dist -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

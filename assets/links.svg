@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Additional Links</title>
+  <desc id="desc">A presenter gestures toward the YouTube logo.</desc>
+  <rect width="900" height="900" fill="#b54147"/>
+  <g transform="translate(120 120)">
+    <circle cx="205" cy="160" r="70" fill="#ffd09a"/>
+    <path d="M140 140c5-70 55-100 118-72 44 20 53 58 30 104-40-45-90-55-148-32z" fill="#5a341e"/>
+    <path d="M180 235h110c70 0 118 55 118 125v365H50V360c0-70 55-125 130-125z" fill="#101010"/>
+    <path d="M180 235l60 250 65-250" fill="#76b8ef"/>
+    <path d="M250 270l55 455h-95z" fill="#7fc6ff"/>
+    <path d="M398 355l170-85 35 70-165 110z" fill="#101010"/>
+    <circle cx="590" cy="297" r="37" fill="#ffd09a"/>
+    <path d="M87 710c15 42 62 58 105 30" stroke="#ffd09a" stroke-width="38" stroke-linecap="round" fill="none"/>
+    <g transform="translate(560 130)">
+      <text x="125" y="120" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700" text-anchor="middle" fill="#ffe8dd">You</text>
+      <rect x="28" y="145" width="194" height="120" rx="28" fill="#ffe8dd"/>
+      <text x="125" y="235" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" text-anchor="middle" fill="#b54147">Tube</text>
+    </g>
+  </g>
+</svg>
