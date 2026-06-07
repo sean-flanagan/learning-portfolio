@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Sample Projects</title>
+  <desc id="desc">A retro pixel screen with rulers and color bars, representing multimedia projects.</desc>
+  <rect width="900" height="900" fill="#050505"/>
+  <g stroke="#fff" stroke-width="16" stroke-linecap="square">
+    <path d="M70 80v720M70 150h760"/>
+    <path d="M70 240h60M70 330h60M70 420h60M70 510h60M70 600h60M70 690h60"/>
+    <path d="M170 150v60M260 150v36M350 150v60M440 150v36M530 150v60M620 150v36M710 150v60M800 150v36"/>
+  </g>
+  <text x="330" y="445" font-family="monospace" font-size="110" fill="#fff">64×64</text>
+  <rect x="290" y="510" width="455" height="245" fill="#fff"/>
+  <rect x="310" y="535" width="415" height="28" fill="#ff0000"/>
+  <rect x="310" y="563" width="415" height="28" fill="#ff9f00"/>
+  <rect x="310" y="591" width="415" height="28" fill="#ffff00"/>
+  <rect x="310" y="619" width="415" height="28" fill="#00c94f"/>
+  <rect x="310" y="647" width="415" height="28" fill="#04a2ff"/>
+  <rect x="310" y="675" width="415" height="28" fill="#3844ff"/>
+  <rect x="310" y="703" width="415" height="28" fill="#ff31d7"/>
+</svg>
